@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/jorgehard/git-flow-test.git",
   "author": "Jorge Henrique <jorgehenrique@live.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  }
 }
