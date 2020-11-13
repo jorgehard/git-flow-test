@@ -1,0 +1,8 @@
+{
+  "name": "git-flow-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jorgehard/git-flow-test.git",
+  "author": "Jorge Henrique <jorgehenrique@live.com>",
+  "license": "MIT"
+}
